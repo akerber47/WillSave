@@ -1,0 +1,10 @@
+Wasting time on websites is hard to avoid. This is a personal productivity tool
+to use in place of standard iOS web browsers (Safari, Chrome etc.). Feel free
+to clone and run it yourself if you're interested.
+
+It can only open specific hard-coded pages and links from those pages, to
+prevent procrastination. Links open with Safari-style navigation controls, but
+the main hard-coded pages are fixed, to make it easier to work with large
+single-page web apps.
+
+We can all have a happier time online if we try our best!
